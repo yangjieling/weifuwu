@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring_DesignPattern/spring_DesignPattern.iml" filepath="$PROJECT_DIR$/spring_DesignPattern/spring_DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_base/spring_base.iml" filepath="$PROJECT_DIR$/spring_base/spring_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_common/spring_common.iml" filepath="$PROJECT_DIR$/spring_common/spring_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_concurrent/spring_concurrent.iml" filepath="$PROJECT_DIR$/spring_concurrent/spring_concurrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_javabase/spring_javabase.iml" filepath="$PROJECT_DIR$/spring_javabase/spring_javabase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_mysql/spring_mysql.iml" filepath="$PROJECT_DIR$/spring_mysql/spring_mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_parent/spring_parent.iml" filepath="$PROJECT_DIR$/spring_parent/spring_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_rabbitmq/spring_rabbitmq.iml" filepath="$PROJECT_DIR$/spring_rabbitmq/spring_rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_redis/spring_redis.iml" filepath="$PROJECT_DIR$/spring_redis/spring_redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_soundcode/spring_soundcode.iml" filepath="$PROJECT_DIR$/spring_soundcode/spring_soundcode.iml" />
+    </modules>
+  </component>
+</project>
