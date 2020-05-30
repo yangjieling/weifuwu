@@ -66,4 +66,8 @@ public class FileUtil {
         }
         return line;
     }
+
+    public void test(){
+        System.out.println("有冲突");
+    }
 }
