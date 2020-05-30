@@ -69,5 +69,7 @@ public class FileUtil {
 
     public void test(){
         System.out.println("this master");
+        System.out.println("有冲突 with dev");
+
     }
 }
