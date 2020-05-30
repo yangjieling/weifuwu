@@ -66,4 +66,8 @@ public class FileUtil {
         }
         return line;
     }
+
+    public void testMerge(){
+        System.out.println("合并本地两个分支，无冲突");
+    }
 }
